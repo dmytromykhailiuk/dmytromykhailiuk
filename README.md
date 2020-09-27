@@ -13,6 +13,10 @@
 
 <br />
 
+Hi, I'm <b>Dmytro Mykhailiuk</b>, a <b>Front-End Developer</b> 🚀 from Ukraine, currently.
+
+<img align="right" alt="GIF" src="https://github.com/dmytromykhailiuk/dmytromykhailiuk/blob/master/code.gif?raw=true" width="500" height="320" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
