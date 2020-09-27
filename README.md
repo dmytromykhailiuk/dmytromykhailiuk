@@ -23,6 +23,8 @@ Hi, I'm <b>Dmytro Mykhailiuk</b>, a <b>Front-End Developer</b> 🚀 from Ukraine
 - 🌱 I’m currently learning Design Patterns and Algorithms; 
 - 📫 How to reach me: [@dmytromykhailiuk](https://www.linkedin.com/in/dmytro-mykhailiuk-3220921b0/);
 
+<br />
+
 **Languages and Tools:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,6 +33,7 @@ Hi, I'm <b>Dmytro Mykhailiuk</b>, a <b>Front-End Developer</b> 🚀 from Ukraine
 <code><img height="25" src="https://user-images.githubusercontent.com/7826229/28226848-9903db36-68a5-11e7-9056-f37d8a77067e.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://iconscout.com/icon/redux"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-226029.png"></code>
