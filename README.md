@@ -20,7 +20,6 @@ Hi, I'm <b>Dmytro Mykhailiuk</b>, a <b>Front-End Developer</b> 🚀 from Ukraine
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Design Patterns and Algorithms; 
 - 📫 How to reach me: [@dmytromykhailiuk](https://www.linkedin.com/in/dmytro-mykhailiuk-3220921b0/);
 
 <br />
